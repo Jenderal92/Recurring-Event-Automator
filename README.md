@@ -1,6 +1,9 @@
 # Recurring Event Automator
 
-**Recurring Event Automator is a tool that automatically creates recurring events in **Google Calendar** using the Google Calendar API and OAuth2 authentication. With this tool, you can create recurring events with flexible frequency settings, such as daily, weekly, monthly, or yearly.
+![recurring-event-automator Jenderal92](https://github.com/user-attachments/assets/01a38be3-3504-49c4-97f3-dedd9ca6f32e)
+
+
+**Recurring Event Automator** is a tool that automatically creates recurring events in **Google Calendar** using the Google Calendar API and OAuth2 authentication. With this tool, you can create recurring events with flexible frequency settings, such as daily, weekly, monthly, or yearly.
 
 ## Key Features
 - **OAuth2 Authentication** for Google Calendar access.
